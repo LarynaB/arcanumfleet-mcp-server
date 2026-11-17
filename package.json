@@ -1,0 +1,8 @@
+{
+  "name": "arcanumfleet-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for ArcanumFleet x402 Solana trading signals, token audits, and engrams",
+  "main": "index.js",
+  "bin": { "arcanumfleet-mcp": "./index.js" },
+  "scripts": { "start": "node index.js" }
+}
