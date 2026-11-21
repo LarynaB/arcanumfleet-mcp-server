@@ -1,12 +1,20 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.LarynaB/arcanumfleet-mcp-server",
-  "description": "11-tool x402 v2 MCP server for Solana audits, whale signals, swaps & code audits (USDC, 0 API keys).",
+  "title": "ArcanumFleet MCP Server",
+  "description": "13-tool x402 v2 MCP server for Solana audits, whale/wallet profiles, swaps & web extract (USDC).",
+  "websiteUrl": "https://arcanumfleet.com/x402",
+  "icons": [
+    {
+      "src": "https://arcanumfleet.com/arcanum-avatar.png",
+      "mimeType": "image/png"
+    }
+  ],
   "repository": {
     "url": "https://github.com/LarynaB/arcanumfleet-mcp-server",
     "source": "github"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "packages": [
     {
       "registryType": "npm",
