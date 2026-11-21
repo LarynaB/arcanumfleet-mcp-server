@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.larynab/arcanumfleet-mcp-server",
+  "description": "11-tool x402 v2 Streamable HTTP MCP server for Solana token rug-checks, smart-money whale concentration, Jupiter swap quotes, tx simulation, 10-node Consensus Admiral verdicts, and code security audits. Pay per call in USDC on Base or Solana with zero API keys.",
+  "status": "active",
+  "repository": {
+    "url": "https://github.com/LarynaB/arcanumfleet-mcp-server",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "packages": [
+    {
+      "registry_type": "npm",
+      "identifier": "arcanumfleet-mcp-server",
+      "version": "1.0.0",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://arcanumfleet.com/mcp"
+    }
+  ]
+}
