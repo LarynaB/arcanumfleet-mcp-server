@@ -6,17 +6,7 @@
     "url": "https://github.com/LarynaB/arcanumfleet-mcp-server",
     "source": "github"
   },
-  "version": "1.0.1",
-  "packages": [
-    {
-      "registryType": "npm",
-      "identifier": "arcanumfleet-mcp-server",
-      "version": "1.0.1",
-      "transport": {
-        "type": "stdio"
-      }
-    }
-  ],
+  "version": "1.0.0",
   "remotes": [
     {
       "type": "streamable-http",
