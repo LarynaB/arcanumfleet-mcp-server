@@ -1,5 +1,7 @@
 # ArcanumFleet MCP Server (`arcanumfleet-mcp-server`)
 
+[![mcptry](https://mcptry.com/badge/io.github.LarynaB/arcanumfleet-mcp-server)](https://mcptry.com/servers/io.github.LarynaB/arcanumfleet-mcp-server)
+
 13-tool **x402 v2** Streamable HTTP & stdio MCP server for Solana trading signals, SPL rug-checks, whale/smart-money concentration, wallet profiling, Jupiter swap quotes, transaction simulation, 10-node Consensus Admiral verdicts, clean web extraction, and fast 0-API-key code audits.
 
 Pay per call in **USDC on Base (`eip155:8453`) or Solana** via HTTP `402 Payment Required` — **0 API keys, 0 subscriptions**.
