@@ -1,6 +1,6 @@
 # ArcanumFleet MCP Server (`arcanumfleet-mcp-server`)
 
-11-tool **x402 v2** Streamable HTTP & stdio MCP server for Solana trading signals, SPL rug-checks, whale/smart-money concentration, Jupiter swap quotes, transaction simulation, 10-node Consensus Admiral verdicts, and fast 0-API-key code audits.
+13-tool **x402 v2** Streamable HTTP & stdio MCP server for Solana trading signals, SPL rug-checks, whale/smart-money concentration, wallet profiling, Jupiter swap quotes, transaction simulation, 10-node Consensus Admiral verdicts, clean web extraction, and fast 0-API-key code audits.
 
 Pay per call in **USDC on Base (`eip155:8453`) or Solana** via HTTP `402 Payment Required` — **0 API keys, 0 subscriptions**.
 
@@ -36,7 +36,7 @@ Pay per call in **USDC on Base (`eip155:8453`) or Solana** via HTTP `402 Payment
 }
 ```
 
-## Available Tools (11)
+## Available Tools (13)
 
 | Tool | Price (USDC) | Purpose |
 | :--- | :--- | :--- |
@@ -51,3 +51,5 @@ Pay per call in **USDC on Base (`eip155:8453`) or Solana** via HTTP `402 Payment
 | `arcanum_trending_mints` | 0.002 | Top 10 trending Solana mints by momentum |
 | `arcanum_tx_simulate` | 0.005 | Solana RPC tx simulator & SetAuthority risk check |
 | `arcanum_code_audit` | 0.001 | Fast 0-API-key code & smart-contract security audit |
+| `arcanum_wallet_profile` | 0.003 | Live Solana wallet SOL balance, SPL holdings & whale tier |
+| `arcanum_web_extract` | 0.001 | Clean LLM-ready web page text & metadata extractor |
