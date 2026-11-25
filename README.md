@@ -40,7 +40,7 @@ Pay per call in **USDC on Base (`eip155:8453`) or Solana** via HTTP `402 Payment
 }
 ```
 
-## Available Tools (13)
+## Available Tools (14)
 
 | Tool | Price (USDC) | Purpose |
 | :--- | :--- | :--- |
@@ -57,3 +57,4 @@ Pay per call in **USDC on Base (`eip155:8453`) or Solana** via HTTP `402 Payment
 | `arcanum_code_audit` | 0.001 | Fast 0-API-key code & smart-contract security audit |
 | `arcanum_wallet_profile` | 0.003 | Live Solana wallet SOL balance, SPL holdings & whale tier |
 | `arcanum_web_extract` | 0.001 | Clean LLM-ready web page text & metadata extractor |
+| `arcanum_base_wallet_profile` | 0.002 | Live Base (eip155:8453) ETH/USDC balance, tx count & tier |
