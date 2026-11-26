@@ -40,7 +40,7 @@ Pay per call in **USDC on Base (`eip155:8453`) or Solana** via HTTP `402 Payment
 }
 ```
 
-## Available Tools (17)
+## Available Tools (18)
 
 | Tool | Price (USDC) | Purpose |
 | :--- | :--- | :--- |
@@ -61,3 +61,4 @@ Pay per call in **USDC on Base (`eip155:8453`) or Solana** via HTTP `402 Payment
 | `arcanum_domain_enrich` | 0.001 | DNS A records, TLS cert, server stack & llms.txt enrichment |
 | `arcanum_token_price` | 0.001 | Multi-chain (Solana/Base/ETH) live token price, 24h volume & % change |
 | `arcanum_xrpl_wallet_profile` | 0.002 | Live XRPL (r...) XRP balance, trustlines/RLUSD & whale tier |
+| `arcanum_perp_funding` | 0.002 | Live Hyperliquid perp funding rates (1h/APR), OI & 24h volume |
